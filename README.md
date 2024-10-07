@@ -256,15 +256,11 @@ Utilizing databases, HarvestWise will deliver daily updates on climate and soil 
 App Features
 This app supports a wide range of features including:
 
-Plant Care Guide: This feature provides tailored information for each plant in the user's field. Based on the specific crop selected (e.g., tomatoes or corn), the app offers detailed care instructions that consider water needs, sunlight, soil type, and nutrient requirements. This ensures users can quickly access the key factors necessary for healthy crop growth, helping to optimize yield and reduce crop loss. The guide updates based on real-time climate data, making recommendations more relevant to current conditions.
-
-![image2](./images/image2.png)
-
-Location Picker: The Location Picker allows users to manually select their farm’s latitude and longitude or any geographic point of interest. By choosing specific coordinates, farmers can access localized climate data, including temperature, precipitation, and humidity forecasts for that exact area. This function is particularly useful for farms located in regions where weather conditions can vary significantly over short distances.
+Location Picker: The Location Picker allows users to manually select their farm’s latitude and longitude or any geographic point of interest. By choosing specific coordinates, farmers can access localized climate data, including temperature, precipitation, and humidity forecasts for that exact area. This function is particularly useful for farms located in regions where weather conditions can vary significantly over short distances. This location picker opens a menu  from below when you press the location text which lets you pick a latitude and longitude and change the value in case that you want to acess graphs from a specific location.
 
 ![image3](./images/image3.png)
 
-Solar Radiation Screen: This screen displays historical and current data on solar radiation in the selected region. Users can track how changes in sunlight intensity over time impact their crops, offering valuable insight into whether plants are receiving too much or too little sunlight. Additionally, the app provides tips on how to mitigate potential damage or enhance crop growth based on solar exposure.
+Solar Radiation Screen: This screen displays historical and current data on solar radiation in the selected region. Users can track how changes in sunlight intensity over time impact their crops, offering valuable insight into whether plants are receiving too much or too little sunlight. Additionally, the app provides tips on how to mitigate potential damage or enhance crop growth based on solar exposure. This solar radiation screen opens when you press the widget shown below in red ink.
 
 ![image4](./images/image4.png)
 
@@ -272,37 +268,28 @@ Solar Radiation Screen: This screen displays historical and current data on sola
 
 
 
-Water Screen: In the Water Screen, users can view humidity levels over time. This section highlights how varying levels of soil and air humidity influence crop hydration and growth. For instance, if there’s a significant drop in humidity, the app might suggest supplemental irrigation techniques to maintain healthy crop conditions.
+Water Screen: In the Water Screen, users can view humidity levels over time. This section highlights how varying levels of soil and air humidity influence crop hydration and growth. For instance, if there’s a significant drop in humidity, the app might suggest supplemental irrigation techniques to maintain healthy crop conditions. This water screen opens when you press the widget shown below in red ink.
 
 ![image5](./images/image5.png)
 
 
-Soil Screen: This screen delves deeper into how local temperature trends affect crop performance, analyzing how extreme heat or cold can impact plant health. Additionally, users receive updates on pest infestations based on current conditions, with recommendations for preventive actions or treatments. By merging temperature and pest data, farmers can make informed decisions to protect their crops during vulnerable periods.
+Ground Screen: This screen delves deeper into how local temperature trends affect crop performance, analyzing how extreme heat or cold can impact plant health. Additionally, users receive updates on pest infestations based on current conditions, with recommendations for preventive actions or treatments. By merging temperature and pest data, farmers can make informed decisions to protect their crops during vulnerable periods.This ground screen opens when you press the widget shown below in red ink.
 
 ![image6](./images/image6.png)
 
 
 
-Plants Screen: Here, users can explore which crops are in season at any given time. This feature not only helps in selecting the right crops for planting based on current environmental conditions but also provides information on local market demands and trends. Seasonal planting helps optimize harvests and ensures farmers grow crops that are likely to perform well in specific climate windows.
+Plants Screen: Here, users can explore which crops are in season at any given time. This feature not only helps in selecting the right crops for planting based on current environmental conditions but also provides information on local market demands and trends. Seasonal planting helps optimize harvests and ensures farmers grow crops that are likely to perform well in specific climate windows.This plants screen opens when you press the widget shown below in red ink.
 
 ![image7](./images/image7.png)
 
+Weather Trends: In this feature we can see sunlight and total precipitation displayed on the bar chart
 
+![image9](./images/image9.png)
 
+Plant Care Guide: This feature provides tailored information for each plant in the user's field. Based on the specific crop selected (e.g., tomatoes or corn), the app offers detailed care instructions that consider water needs, sunlight, soil type, and nutrient requirements. This ensures users can quickly access the key factors necessary for healthy crop growth, helping to optimize yield and reduce crop loss. The guide updates based on real-time climate data, making recommendations more relevant to current conditions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image2](./images/image2.png)
 
 Redirect to the forum: This feature offers users the chance to connect with a larger community of farmers via a dedicated Reddit forum. Here, users can ask questions, share their experiences, and learn from others in similar climates or growing the same crops. The forum provides a space for peer-to-peer support, allowing farmers to access practical advice and discuss challenges they face on their farms.
 
@@ -317,9 +304,7 @@ Redirect to the forum: This feature offers users the chance to connect with a la
 
 
 
-Weather Trends: In this feature we can see sunlight and total precipitation displayed on the bar chart
 
-![image9](./images/image9.png)
 
 **Making of the app:**
 
