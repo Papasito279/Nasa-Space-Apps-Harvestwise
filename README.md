@@ -36,7 +36,7 @@ HarvesWise can play a crucial role in supporting farmers in Sonora, and hopefull
 
 **Theoretical Framework**
 
-Droughts:
+**Droughts:**
 
 Mexico is cataloged as highly vulnerable to droughts since around 52% of its territory has a semi-arid or arid climate. Droughts are defined as the decrease or absence of rainfall compared to the annual rate. Droughts are a normal event and they occur in all climate zones. In Mexico, for example, droughts occur every 20 years. However, they aggravate due to poor resource management and climate change. 
 
@@ -54,7 +54,7 @@ Droughts not only cause havoc in the agricultural sector, but also in the livest
 
 
 
-Floods:
+**Floods:**
 
 A flood occurs when water surpasses the absorption capacity of the soil and other natural and artificial draining systems.
 They get classified according to their water volume, precipitation rate, and rainfall duration:
@@ -86,13 +86,13 @@ An important aspect to consider is that floods affect crops differently dependin
 
 
 
-Soil Humidity:
+**Soil Humidity:**
 
 Soil humidity is the most difficult environment characteristic to manipulate since this condition is given by different internal factors such as air temperature, plant transpiration, and soil evapotranspiration. However, it is a very important aspect to consider when growing crops.
 
 Reasons why agricultural activities are affected:
 
-Climate Change:
+**Climate Change:**
 
 Extreme events such as droughts, intense rainfall, or frosts can damage crops.
  
@@ -105,13 +105,13 @@ Lack of nutrients due to the excessive use of soil without crop rotation.
 
 Soil compaction that hinders root growth.
 
-Pests and Diseases:
+**Pests and Diseases:**
 
 Insect pests that destroy crops.
 
 Diseases caused by viruses, fungi, or bacteria that affect plants.
 
-Lack of Water:
+**Lack of Water:**
 
 Droughts that limit irrigation.
 
@@ -123,17 +123,17 @@ Monocultures that impoverish the soil and increase the risk of pests.
  
 Excessive use of chemicals that damage the soil and water.
  
-Biodiversity Loss:
+**Biodiversity Loss:**
 
 Decrease in pollinators (such as bees).
  
 Disappearance of native species that contribute to the agricultural system.
  
-Natural Disasters:
+**Natural Disasters:**
 
 Floods, earthquakes, or landslides that destroy crops.
 
-Socioeconomic Problems:
+**Socioeconomic Problems:**
 
 Lack of access to technology or resources limits the ability to adapt.
 
@@ -141,21 +141,21 @@ Armed conflict interrupts production and destroys agricultural fields.
 
 **Preventive Measures Against Common Agricultural Disasters**
 
-In Response to Heavy Rainfall:
+**In Response to Heavy Rainfall:**
 
 Proper Drainage Systems: Implementing adequate drainage systems is essential to prevent flooding, which can severely damage crops. Techniques such as building trenches or channels to divert excess water help mitigate the risk.
 
 Soil Covering: Using methods like mulch or cover crops can reduce soil erosion and enhance water infiltration. This helps protect the soil during heavy rain.
 Weather Monitoring: Leveraging weather forecast applications allows farmers to anticipate rainfall and plan agricultural activities accordingly, avoiding planting or harvesting during heavy rain periods.
 
-During Droughts:
+**During Droughts:**
 
 Efficient Irrigation: Employing drip irrigation or sensor-controlled automated systems can optimize water use, minimizing waste by watering only when the soil requires it. These technologies are critical in conserving water during dry spells.
 
 Drought-Resistant Crops: Selecting crop varieties that are more drought-tolerant or that require less water can reduce vulnerability to prolonged dry periods.
 Water Storage: Constructing reservoirs or cisterns to collect and store rainwater ensures that farmers have access to water during drought conditions.
 
-Against Water Contamination:
+**Against Water Contamination:**
 
 Water Filtration and Treatment: Installing filtration systems to remove contaminants before irrigation is vital, particularly in areas near industrial zones or where chemical products are used.
 
@@ -170,28 +170,29 @@ Agricultural Insurance: Securing crop insurance that covers losses from extreme 
 
 Crop Rotation: This method improves soil health and helps prevent erosion and nutrient loss, particularly after periods of intense rain or drought.
 
-Long-Term Planning:
+**Long-Term Planning:**
 
 Predictive Models: Utilizing platforms, that offer seasonal and long-term climate forecasts, helps farmers plan their planting and harvesting seasons more effectively.
 
 Monitoring Technologies: Mobile applications can be employed to monitor crop health and soil moisture levels, enabling real-time data-driven adjustments to farming practices.
 
-Climate change affects the countryside, how to confront it?
+**Climate change affects the countryside, how to confront it?**
 
 Climate change is the modification of the climate concerning the climatic history on a global or regional scale, which results in the alteration of the patterns of meteorological events such as cold fronts, hurricanes, frosts, extreme rains, and also: drought or excess of humidity, average winter temperature, etc.
 
 These changes affect crop yields; they generate loss of livestock, and destruction of crops; These extreme variations in temperatures cause, in transmission areas, pests and diseases to spread rapidly with devastating consequences in the agricultural sector.
 
-Key Agricultural Crops in Sonora, Mexico, and Their Climate Requirements:
+**Key Agricultural Crops in Sonora, Mexico, and Their Climate Requirements:**
 
-Corn:
+**Corn:**
+
 Average Size: 2-3 meters tall.
 
 Water Needs: Requires 500-800 mm of water; droughts severely impact pollination and grain production.
 
 Excessive Rain: Can cause waterlogging and increase the risk of diseases like Fusarium.
 
-Chiles:
+**Chiles:**
 
 Average Size: 60 cm to 1.2 meters.
 
@@ -201,7 +202,7 @@ Impact of Drought: Leads to irregular fruit development and blossom drop. Drip i
 
 Excessive Rain: Raises risks of fungal diseases and root rot.
 
-Orange:
+**Orange:**
 
 Average Size: 4-10 meters tall.
 
@@ -211,7 +212,7 @@ Drought Impact: Reduces fruit size and juice quality, making trees more suscepti
 
 Excessive Rain: Leads to root rot and increased susceptibility to diseases like anthracnose and citrus canker.
 
-Walnut:
+**Walnut:**
 
 Average Size: Up to 30 meters tall.
 
@@ -221,7 +222,7 @@ Drought Impact: Reduces nut size and affects future production.
 
 Excessive Rain: Can cause root suffocation and crown rot.
 
-Grapes:
+**Grapes:**
 
 Average Size: 1.5-3 meters depending on the variety and support used.
 
@@ -232,28 +233,40 @@ Drought Impact: Reduces fruit yield but can enhance sugar concentration in grape
 Excessive Rain: Dilutes flavor and increases fungal diseases like downy mildew and botrytis.
 
 !['image13](./images/image13.png)
-Benefits of HarvestWise
-Intuitive Interface:
+**Benefits of HarvestWise**
+
+**Intuitive Interface:**
+
 HarvestWise will incorporate an easy-to-understand and user-friendly interface designed specifically for agriculturists and farmers. This ensures that regardless of their experience with technology, they can effortlessly access important information and tools. The goal is to simplify complex data and make it understandable. 
 
-Crop Optimization:
+![image1](./images/image1.png)
+
+**Crop Optimization:**
+
 One of the app's features is its capability to deliver tailored recommendations based on the specific crops the user inputs. These personalized insights help farmers optimize their practices, leading to improved crop quality, and better financial outcomes.
 
-Public Forum:
+**Public Forum:**
+
 To create a sense of community and to empower users to network, the app includes a public forum where farmers can ask questions, share their experiences, and provide feedback to others. By encouraging interaction and collaboration, this forum will serve as a tool for knowledge sharing.
 
-Climate and Soil Condition Prediction: 
-Utilizing databases, HarvestWise will deliver daily updates on climate and soil conditions based on geographical position. This feature will allow farmers to stay informed about environmental factors that could potentially affect their crops, therefore, making data-driven decisions. 
+**Climate and Soil Condition Prediction:**
 
+Utilizing databases, HarvestWise will deliver daily updates on climate and soil conditions based on geographical position. This feature will allow farmers to stay informed about environmental factors that could potentially affect their crops, therefore, making data-driven decisions. 
 
 App Features
 This app supports a wide range of features including:
+
 Plant Care Guide: This feature provides tailored information for each plant in the user's field. Based on the specific crop selected (e.g., tomatoes or corn), the app offers detailed care instructions that consider water needs, sunlight, soil type, and nutrient requirements. This ensures users can quickly access the key factors necessary for healthy crop growth, helping to optimize yield and reduce crop loss. The guide updates based on real-time climate data, making recommendations more relevant to current conditions.
+
+![image2](./images/image2.png)
 
 Location Picker: The Location Picker allows users to manually select their farm’s latitude and longitude or any geographic point of interest. By choosing specific coordinates, farmers can access localized climate data, including temperature, precipitation, and humidity forecasts for that exact area. This function is particularly useful for farms located in regions where weather conditions can vary significantly over short distances.
 
+![image3](./images/image3.png)
 
 Solar Radiation Screen: This screen displays historical and current data on solar radiation in the selected region. Users can track how changes in sunlight intensity over time impact their crops, offering valuable insight into whether plants are receiving too much or too little sunlight. Additionally, the app provides tips on how to mitigate potential damage or enhance crop growth based on solar exposure.
+
+![image4](./images/image4.png)
 
 
 
@@ -261,12 +274,18 @@ Solar Radiation Screen: This screen displays historical and current data on sola
 
 Water Screen: In the Water Screen, users can view humidity levels over time. This section highlights how varying levels of soil and air humidity influence crop hydration and growth. For instance, if there’s a significant drop in humidity, the app might suggest supplemental irrigation techniques to maintain healthy crop conditions.
 
+![image5](./images/image5.png)
+
 
 Soil Screen: This screen delves deeper into how local temperature trends affect crop performance, analyzing how extreme heat or cold can impact plant health. Additionally, users receive updates on pest infestations based on current conditions, with recommendations for preventive actions or treatments. By merging temperature and pest data, farmers can make informed decisions to protect their crops during vulnerable periods.
+
+![image6](./images/image6.png)
 
 
 
 Plants Screen: Here, users can explore which crops are in season at any given time. This feature not only helps in selecting the right crops for planting based on current environmental conditions but also provides information on local market demands and trends. Seasonal planting helps optimize harvests and ensures farmers grow crops that are likely to perform well in specific climate windows.
+
+![image7](./images/image7.png)
 
 
 
@@ -287,6 +306,7 @@ Plants Screen: Here, users can explore which crops are in season at any given ti
 
 Redirect to the forum: This feature offers users the chance to connect with a larger community of farmers via a dedicated Reddit forum. Here, users can ask questions, share their experiences, and learn from others in similar climates or growing the same crops. The forum provides a space for peer-to-peer support, allowing farmers to access practical advice and discuss challenges they face on their farms.
 
+![image8](./images/image8.png)
 
 
 
@@ -296,28 +316,44 @@ Redirect to the forum: This feature offers users the chance to connect with a la
 
 
 
-Weather trends: In this feature we can see sunlight and total precipitation displayed on the bar chart
 
-Making of the app
+Weather Trends: In this feature we can see sunlight and total precipitation displayed on the bar chart
+
+![image9](./images/image9.png)
+
+**Making of the app:**
+
 First we defined how our main screen should look like on a whiteboard as well as define all the other information that could prove useful to us such as possible databases we could use or what the challenge was asking us to do. 
-
-
 
 After defining the design and functionality of our application, our programming team began development using Flutter. We chose Flutter because it compiles directly into native code and is widely regarded as one of the most user-friendly frameworks within the mobile app development community. Once the main screen was designed, we proceeded to implement key functionalities, such as the plant care guide and the location picker. The location picker allows users to select a dynamic location in case they wish to access data from a different area or if they lack a stable internet connection. In such cases, they can download historical data for the selected latitude. Please note that our application will store data from up to two days prior.
 
+![image10](./images/image10.png)
 
 
-Other Screens:
+
+**Other Screens:**
+
 After completing the functionality of the main screen, we moved on to populate the additional screens in the app and set up navigation for specific button interactions. This process followed the same approach as before: first, we planned the design of each interface, and then we defined the corresponding functionality. Once the functionalities were outlined, our team collaborated to connect the APIs assigned to each screen.
+
 Unfortunately, despite our efforts, we were unable to implement real-time data using the APIs for the prototype at this stage. As a result, we decided to limit the scope to the city of Obregón in Sonora, Mexico, and focused on obtaining information regarding water levels, plant types, solar radiation, and temperature. We used this data to generate graphs illustrating the expected output once the prototype is fully operational. These graphs were displayed on the screens related to water, ground conditions, and solar radiation, each accompanied by a brief description explaining the data and its impact on plant life.
+
 For the plant widget, we implemented functionality that suggests which crops farmers should plant based on the data collected by the APIs. Additionally, we included a button that displays a list of crops, allowing users to add a photo and data about the suitability of the selected crop according to current environmental conditions. However, this functionality currently uses placeholder names for the plants, as we do not have access to real-time data at the time of writing this prototype.
-Future Integration:
+
+**Future Integration:**
+
 As the project progresses, we plan to integrate the real-time data by establishing connections between our APIs and external databases that track environmental metrics such as water levels, soil conditions, and weather patterns. Our team will work on refining the APIs to ensure seamless communication between the app and these data sources. Additionally, we will implement cloud-based storage solutions to manage and synchronize user data, allowing the app to deliver accurate and up-to-date information tailored to each location. This will enable full functionality for the plant widget and ensure that farmers receive real-time insights to optimize their crop selection and care.
+
 Finally we managed to integrate everything and run it with android studio to be able to display HarvestWise.
 
 
 
-We also created a design prototype, including logo, color palette and overall branding. With the help of Figma Studio and Canva, we were able to design the future interface of HarvestWise. 
+We also created a design prototype, including logo, color palette and overall branding. With the help of Figma Studio and Canva, we were able to design the future interface of HarvestWise.
+
+![image11](./images/image11.png)
+
+![image12](./images/image12.png)
+
+
 
 
 
@@ -359,12 +395,19 @@ This design follows the same structure as the programmed app, but this includes 
 References
 
 Buechler, S. (2023, junio 22). Gender, water, and climate change in Sonora, Mexico: implications for policies and programmes on agricultural income-generation. Oxfam Policy & Practice. https://policy-practice.oxfam.org/resources/gender-water-and-climate-change-in-sonora-mexico-implications-for-policies-and-131688/
+
 Damián, F. (2023, enero 1). Precio de canasta básica aumentó más de 80% en los últimos 5 años: Rubén Moreira. Gob.mx. https://comunicacion.diputados.gob.mx/sintesis/LINKSIN2/1124_J_MILENIO_0_PRECIODECANASTABASICA_AUMENTOCANASTABASICA_2J.pdf
+
 Esparza, M. (2014). La sequía y la escasez de agua en México. Situación actual y perspectivas futuras. scielo.org.mx. https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-03482014000200008
+
 Fimbres, R. (2024, septiembre 2). Sonora registra la peor sequía de la historia. enfoquenoticias.com.mx. https://enfoquenoticias.com.mx/sonora-registra-la-peor-sequia-de-la-historia/
+
 Hernández, E. (2022, septiembre 2). Sequía puede generar pérdida de 102 mil mdp a la industria y agricultura: Banxico. Forbes México. https://www.forbes.com.mx/sequia-puede-generar-perdida-de-102-mil-mdp-a-la-industria-y-agricultura-banxico/
+
 Instituto Nacional de Estadística y Geografía(INEGI). (s/f). Censo de Población y Vivienda 2020. Org.mx. Recuperado el 7 de octubre de 2024, de https://www.inegi.org.mx/programas/ccpv/2020/
+
 LandLinks. (2011, marzo 9). Mexico. Landlinks.org. https://www.land-links.org/country-profile/mexico/
 s/n. (s/f). La humedad en el suelo y el rendimiento. fertilab.com.mx. Recuperado el 7 de octubre de 2024, de https://www.fertilab.com.mx/Sitio/notas/NTF-19-020-La-humedad-en-el-suelo-y-el-rendimiento.pdf
+
 Sonora. (s/f). Data México. Recuperado el 7 de octubre de 2024, de https://www.economia.gob.mx/datamexico/es/profile/geo/sonora-so?redirect=true
 
