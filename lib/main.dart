@@ -81,8 +81,8 @@ class _FarmDashboardState extends State<FarmDashboard> {
     _formattedDate = DateFormat('MM/dd/yyyy').format(date);
   }
 
-  double lat = 10.0;
-  double lon = 9.0;
+  double lat = 27;
+  double lon = -110;
 
   @override
   Widget build(BuildContext context) {
@@ -234,6 +234,7 @@ class _FarmDashboardState extends State<FarmDashboard> {
       );
     }
 
+    List<String> crops = ['Potato', 'Carrot', 'Pepper'];
     return Scaffold(
       appBar: const AppBarWidget(title: 'Main  Page'),
       body: Row(
@@ -277,11 +278,15 @@ class _FarmDashboardState extends State<FarmDashboard> {
               const SizedBox(
                 height: 20,
               ),
-              const NewButton(text: 'My Fields'),
+              const NewButton(text: 'My Fields: '),
               const SizedBox(
                 height: 30,
               ),
-              const NewButton(text: 'My Plants'),
+              const NewButton(text: 'My Plants: '),
+              const SizedBox(height: 5,),
+              Column(
+                children: crops.map((element) => Text(element)).toList(),
+              ),
               const Expanded(child: SizedBox()),
               GestureDetector(
                 onTap: () {}, // Trigger the onPressed callback
@@ -291,7 +296,7 @@ class _FarmDashboardState extends State<FarmDashboard> {
                       Colors.blue, // Background color of the button
                   child: Text(
                     'About us',
-                    style: TextStyle(color: Colors.blue), // Text color
+                    style: TextStyle(color: Colors.white), // Text color
                   ),
                 ),
               ),

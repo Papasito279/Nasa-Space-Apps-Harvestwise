@@ -43,9 +43,21 @@ class _RadiacionState extends State<RadiacionScreen> {
 
   @override
   Widget build(BuildContext context) {
+    String solarIntensitySummary = '''
+The average solar intensity is around 650-750 W/m², with periods of moderate solar intensity in the first five days (~450 W/m²) and then high levels starting on day 6.
+
+Effects:
+High intensity (red): Leads to dehydration, heat stress, and possible cellular damage to crops.
+Moderate intensity (green): During the first five days, the lower intensity helps plants adapt to the conditions before the heat increases.
+
+Recommendation:
+- Maintain a frequent irrigation system to avoid dehydration.
+- Monitor the field regularly, especially from day 6 onward, to address potential heat stress.
+- Use shade nets during the hottest days to protect plants from excessive solar radiation.
+''';
     print(_data);
     return Scaffold(
-      appBar: const AppBarWidget(title: 'Radiation Screen'),
+      appBar: const AppBarWidget(title: 'Solar Radiation Screen'),
       body: FutureBuilder(
           future: _data,
           builder: (context, snapshot) {
@@ -67,50 +79,64 @@ class _RadiacionState extends State<RadiacionScreen> {
                 child: Text('This database has no data'),
               );
             }
-            return Column(
-              children: [
-                const DateWidget(),
-                
-                const SizedBox(
-                  height: 20,
-                ),
-                Row(
-                  children: [
-                    const SizedBox(
-                      width: 10,
-                    ),
-                    Expanded(
-                      child: SizedBox(
-                        height: 300,
-                        width: 440,
-                        child: Container(
-                          child: Image.asset(
-                            'assets/image3.png',
-                            fit: BoxFit.contain,
+            return SingleChildScrollView(
+              child: Column(
+                children: [
+                  const DateWidget(),
+                  const SizedBox(
+                    height: 20,
+                  ),
+                  Row(
+                    children: [
+                      const SizedBox(
+                        width: 20,
+                      ),
+                      Expanded(
+                        child: SizedBox(
+                          height: 300,
+                          width: 440,
+                          child: Container(
+                            child: Image.asset(
+                              'assets/image3.png',
+                              fit: BoxFit.contain,
+                            ),
                           ),
                         ),
                       ),
-                    ),
-                  ],
-                ),
-                Container(
-                  child: const Row(
-                    children: [
-                      SizedBox(width: 10,),
-                      Align(
-                        alignment: Alignment.centerLeft,
-                        child: Text(
-                          'Data about Solar Intensity and how it affects crops in Obregon',
-                        ),
-                      ),
+                      const SizedBox(
+                        width: 20,
+                      )
                     ],
                   ),
-                ),
-                const SizedBox(
-                  height: 50,
-                ),
-                
-              ],
+                  Container(
+                    child: Row(
+                      children: [
+                        const SizedBox(
+                          width: 20,
+                        ),
+                        Expanded(
+                          child: Column(
+                            children: [
+                              Container(
+                                padding: const EdgeInsets.all(16.0),
+                                child: Text(
+                                  solarIntensitySummary,
+                                  style: const TextStyle(fontSize: 16),
+                                  textAlign:
+                                      TextAlign.left, // Aligns text to the left
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(
+                    height: 50,
+                  ),
+                ],
+              ),
             );
           }),
     );

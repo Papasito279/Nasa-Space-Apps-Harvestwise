@@ -27,14 +27,14 @@ class _PrecipitacionScreenState extends State<PrecipitacionScreen> {
                   width: 20,
                 ),
                 Container(
-                  child: Image.asset(
-                    'assets/image6.png',
-                    fit: BoxFit.fill,
-                  ),
                   height: 300,
                   width: 400,
                   decoration: BoxDecoration(
                     border: Border.all(color: Colors.black),
+                  ),
+                  child: Image.asset(
+                    'assets/image6.png',
+                    fit: BoxFit.fill,
                   ),
                 ),
               ],
@@ -46,18 +46,22 @@ class _PrecipitacionScreenState extends State<PrecipitacionScreen> {
           const SizedBox(
             width: 10,
           ),
-          Container(
-            child: Text('Relative Humidity in the city of Obregon'),
-            decoration: BoxDecoration(
-              border: Border.all(color: Colors.blue),
-            ),
-            width: 200,
-            height: 100,
+          Row(
+            children: [
+              const SizedBox(width: 20,),
+              Expanded(
+                child: SizedBox(
+                  height: 100,
+                  child: Text(
+                      'This chart represents the relative humidity across the months in Ciudad Obregón. Low humidity during the warmer months can dry out plants and limit their water retention, causing growth issues and dehydration.'),
+                ),
+              ),
+              const SizedBox(width: 20,)
+            ],
           ),
           const SizedBox(
             height: 20,
           ),
-          
         ],
       ),
     );
