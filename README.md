@@ -293,7 +293,7 @@ Plant Care Guide: This feature provides tailored information for each plant in t
 
 Redirect to the forum: This feature offers users the chance to connect with a larger community of farmers via a dedicated Reddit forum. Here, users can ask questions, share their experiences, and learn from others in similar climates or growing the same crops. The forum provides a space for peer-to-peer support, allowing farmers to access practical advice and discuss challenges they face on their farms.
 
-![image8](./images/image8f.png)
+![image8f](./images/image8f.png)
 
 
 
