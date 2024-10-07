@@ -258,7 +258,7 @@ This app supports a wide range of features including:
 
 Location Picker: The Location Picker allows users to manually select their farm’s latitude and longitude or any geographic point of interest. By choosing specific coordinates, farmers can access localized climate data, including temperature, precipitation, and humidity forecasts for that exact area. This function is particularly useful for farms located in regions where weather conditions can vary significantly over short distances. This location picker opens a menu  from below when you press the location text which lets you pick a latitude and longitude and change the value in case that you want to acess graphs from a specific location.
 
-![image3](./images/image3.png)
+![image3f](./images/image3f.png)
 
 Solar Radiation Screen: This screen displays historical and current data on solar radiation in the selected region. Users can track how changes in sunlight intensity over time impact their crops, offering valuable insight into whether plants are receiving too much or too little sunlight. Additionally, the app provides tips on how to mitigate potential damage or enhance crop growth based on solar exposure. This solar radiation screen opens when you press the widget shown below in red ink.
 
@@ -293,7 +293,7 @@ Plant Care Guide: This feature provides tailored information for each plant in t
 
 Redirect to the forum: This feature offers users the chance to connect with a larger community of farmers via a dedicated Reddit forum. Here, users can ask questions, share their experiences, and learn from others in similar climates or growing the same crops. The forum provides a space for peer-to-peer support, allowing farmers to access practical advice and discuss challenges they face on their farms.
 
-![image8](./images/image8.png)
+![image8](./images/image8f.png)
 
 
 
