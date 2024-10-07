@@ -119,15 +119,15 @@ Water pollution, which affects irrigation quality.
 
 Unsustainable Agricultural Practices:
 
-	Monocultures that impoverish the soil and increase the risk of pests.
+Monocultures that impoverish the soil and increase the risk of pests.
  
-	Excessive use of chemicals that damage the soil and water.
+Excessive use of chemicals that damage the soil and water.
  
 Biodiversity Loss:
 
-	Decrease in pollinators (such as bees).
+Decrease in pollinators (such as bees).
  
-	Disappearance of native species that contribute to the agricultural system.
+Disappearance of native species that contribute to the agricultural system.
  
 Natural Disasters:
 
@@ -231,7 +231,7 @@ Drought Impact: Reduces fruit yield but can enhance sugar concentration in grape
 
 Excessive Rain: Dilutes flavor and increases fungal diseases like downy mildew and botrytis.
 
-!['image13](./images/image13)
+!['image13](./images/image13.png)
 Benefits of HarvestWise
 Intuitive Interface:
 HarvestWise will incorporate an easy-to-understand and user-friendly interface designed specifically for agriculturists and farmers. This ensures that regardless of their experience with technology, they can effortlessly access important information and tools. The goal is to simplify complex data and make it understandable. 
